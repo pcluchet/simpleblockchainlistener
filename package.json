@@ -1,7 +1,7 @@
 {
   "name": "SimpleBlockchainListener",
   "version": "1.0.0",
-  "description": "Test of swagger server generation",
+  "description": "Simple cli app listening to blockchain events",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -18,11 +18,8 @@
     "express": "^4.16.1",
     "fabric-ca-client": "1.4.1",
     "fabric-client": "1.4.1",
-    "grpc": "^1.6.0",
+    "grpc": "^1.21.1",
     "js-yaml": "^3.3.0",
-    "nano": "^7.0.0",
-    "nodemailer": "^6.2.1",
-    "serve-static": "^1.13.2",
-    "swagger-tools": "0.10.1"
+    "nano": "^7.0.0"
   }
 }
