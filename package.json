@@ -12,7 +12,7 @@
   "license": "Unlicense",
   "private": true,
   "dependencies": {
-    "async": "^2.6.1",
+    "async": "^3.2.2",
     "connect": "^3.2.0",
     "cors": "^2.8.5",
     "express": "^4.16.1",
